@@ -1,0 +1,10 @@
+footer {
+  backgroung-color: #00ff00;
+  height: 60px;
+  width: 100%;
+  position: absolute;
+  bottom: 0px;
+}
+p {
+  text-align: center;
+}
